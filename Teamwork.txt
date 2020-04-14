@@ -4,6 +4,7 @@ This is for training purposes
 Please add the part 3 to edit
 
 "Added in Quote Branch"
+Quote is assigned to ABC
 
 It seems solitude won't help us grow
 It obviously hasn't worked before
